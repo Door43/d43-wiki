@@ -1,4 +1,2 @@
 ====== don book test ======
-  * [[:en:ta:vol1:tech:tech_manual]]
   * [[:en:ta:vol1:translate:translate_manual]]
-  * [[:en:ta:vol1:intro:ta_intro]]
