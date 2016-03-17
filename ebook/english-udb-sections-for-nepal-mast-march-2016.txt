@@ -1,0 +1,9 @@
+====== English UDB Sections for Nepal MAST March 2016 ======
+  * [[:en:udb:ep:43-luk.usfm]]
+  * [[:en:udb:ep:45-act.usfm]]
+  * [[:en:udb:ep:50-eph.usfm]]
+  * [[:en:udb:ep:53-1th.usfm]]
+  * [[:en:udb:ep:54-2th.usfm]]
+  * [[:en:udb:ep:55-1ti.usfm]]
+  * [[:en:udb:ep:56-2ti.usfm]]
+  * [[:en:udb:ep:57-tit.usfm]]
