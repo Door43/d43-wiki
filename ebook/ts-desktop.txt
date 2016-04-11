@@ -1,0 +1,12 @@
+====== ts Desktop ======
+  * [[:en:ta:vol2:tech:tsd_install]]
+  * [[:en:ta:vol2:tech:tsd_first]]
+  * [[:en:ta:vol2:tech:tsd_navigate]]
+  * [[:en:ta:vol2:tech:tsd_settings]]
+  * [[:en:ta:vol2:tech:tsd_bibletxt]]
+  * [[:en:ta:vol2:tech:tsd_tn]]
+  * [[:en:ta:vol3:gateway:gl_notes]]
+  * [[:en:ta:vol2:tech:tsd_tw]]
+  * [[:en:ta:vol3:gateway:gl_words]]
+  * [[:en:ta:vol2:tech:tsd_tq]]
+  * [[:en:ta:vol3:gateway:gl_questions]]
